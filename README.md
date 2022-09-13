@@ -1,2 +1,4 @@
 # Term4-Assessment2
-Please follow the steps in the assessment task for code / file version management!
+Thomas Tunut
+Practical skills Assignment #2
+Fork, modify and pull request to the main repository. 
